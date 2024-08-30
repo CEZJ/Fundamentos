@@ -1,0 +1,20 @@
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\ecapr\OneDrive\Escritorio\C#\GRABACIONES AAD\SEMANA 2\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\Usuario\Downloads\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\Usuario\Downloads\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\Usuario\Downloads\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\Usuario\Downloads\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\Usuario\Downloads\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\Usuario\Downloads\Lab03\Lab03\obj\Debug\Lab03.pdb
