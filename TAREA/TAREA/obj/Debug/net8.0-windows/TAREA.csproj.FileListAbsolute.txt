@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\bin\Debug\net8.0-windows\TAREA.exe
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\bin\Debug\net8.0-windows\TAREA.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\bin\Debug\net8.0-windows\TAREA.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\bin\Debug\net8.0-windows\TAREA.dll
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\bin\Debug\net8.0-windows\TAREA.pdb
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.dll
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\refint\TAREA.dll
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.pdb
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\TAREA.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\TAREA\TAREA\obj\Debug\net8.0-windows\ref\TAREA.dll
