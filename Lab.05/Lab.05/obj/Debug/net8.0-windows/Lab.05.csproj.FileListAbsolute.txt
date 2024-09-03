@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\bin\Debug\net8.0-windows\Lab.05.exe
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\bin\Debug\net8.0-windows\Lab.05.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\bin\Debug\net8.0-windows\Lab.05.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\bin\Debug\net8.0-windows\Lab.05.dll
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\bin\Debug\net8.0-windows\Lab.05.pdb
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab._05.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.dll
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\refint\Lab.05.dll
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.pdb
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\Lab.05.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\C# 2024\Lab.05\Lab.05\obj\Debug\net8.0-windows\ref\Lab.05.dll
